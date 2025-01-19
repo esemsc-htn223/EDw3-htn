@@ -36,6 +36,12 @@ There are some great introductory tutorials available on Github. The one we will
 
 This steps you through the basics of handling raster images (reading, stacking, reshaping), displaying images and histograms, creating and displaying spectral indices, using vector data (points, lines, polygons), and classification (supervised with training data and unsupervised) and, in the second tutorial, deep learning classification approaches (e.g. random forests, k-nearest neighbour, k-means etc) and Principal Component Analysis (PCA) which we will talk about later, as well as classification accuracy assessments. 
 
+Some Python resources exist to help compute spectral indices: 
+* https://github.com/awesome-spectral-indices/awesome-spectral-indices
+
+For a set of spectral indices with GUI (... but I hope you will by now become a bit 'allergic' to GUI for data processing/manipulations! :) )
+* https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool 
+
 To get some more practice on some terrain analysis, use the following tutorial, which is part of the Earthpy tutorial set, which is excellent and comprehensive https://earthpy.readthedocs.io/en/latest/get-started.html# ):
 
 * https://earthpy.readthedocs.io/en/latest/gallery_vignettes/plot_dem_hillshade.html
