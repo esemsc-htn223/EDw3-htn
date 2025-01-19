@@ -40,18 +40,17 @@ https://www.wiley.com/en-gb/Multiple+point+Geostatistics%3A+Stochastic+Modeling+
 * Richards, J. A., 2013, Remote Sensing Digital Image Analysis: an Introduction. (3rd Edition)
 * Mather, P. M., 2011, Computer Processing of Remotely-Sensed Images, 4th edition
 * Schowengerdt, R. A., 2006, Remote Sensing: Models and Methods for Image Processing
-* Niblack, W., 1986, An introduction to digital image processing  (old but really good)![image](https://github.com/user-attachments/assets/d43143a5-72bf-450c-9752-d864cda39ef7)
+* Niblack, W., 1986, An introduction to digital image processing  (old but really good)
 
 Plus there are many  resources (and ready code) available for EO applications. Check out:
-eo-learn https://pypi.org/project/eo-learn 
-GitHub.com/arcgeospatial/awesome-earthobservation-code 
-GitHub.com/sentinel-hub/eo-learn-workshop 
-GitHub.com/earthlab/earth-analytics-python-env
-ESE Jupyter notebooks (by Raul Adraeinsen)
-Earthdatascience.org/courses/earth-analytics-python
-Raster data format descriptors and drivers GDAL.org 
-![image](https://github.com/user-attachments/assets/88f7b558-dd03-43c4-91d4-86d4de32e448)
 
+* eo-learn https://pypi.org/project/eo-learn 
+* GitHub.com/arcgeospatial/awesome-earthobservation-code 
+* GitHub.com/sentinel-hub/eo-learn-workshop 
+* GitHub.com/earthlab/earth-analytics-python-env
+* ESE Jupyter notebooks (by Raul Adraeinsen)
+* Earthdatascience.org/courses/earth-analytics-python
+* Raster data format descriptors and drivers GDAL.org
 
 
 ## Lecture schedule
