@@ -24,17 +24,18 @@ This week, we will focus on:
 The key objective of the course is to equip the students with the information and technical skills needed to design comprehensive data analysis strategies and deliver thorough analytical results that best exploit the data available considering differences in data types, spatio-temporal coverage and associated uncertainties and errors.  
 
 ## Supplementary/recommended reading and useful resources:
-* Data Science From Scartch: First principles with Python
-http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
-
-* Deep Learning for the Earth Sciences: A comprehensive Approach to Remote sensing, climate science and geoscience
-https://www.goodreads.com/book/show/56733176-deep-learning-for-the-earth-sciences
+* [FREE TO DOWNLOAD] Jian Guo Liu and Philippa Mason, 2016, Image Processing and GIS for Remote Sensing – Techniques and Applications, Second Edition, 472p, ISBN: 978-1-118-72420-0, March 2016, Wiley-Blackwel. Contains all the mathematical background for image processing of all kinds of digital remotely sensed imagery. http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118724208.html 
+![image](https://github.com/user-attachments/assets/b8f6ad4e-b28a-453b-9ff0-78268148d7f6)
 
 * Multiple-point geostatistics: stochastic modeling with training images
 https://www.wiley.com/en-gb/Multiple+point+Geostatistics%3A+Stochastic+Modeling+with+Training+Images-p-9781118662953
 
-* Time series data in python
-https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-series-data-in-python/
+* Gonzalez, R. C., Rafael, C. at al., 2019, Digital Image Processing (pdf). 
+* Jensen, J. R.2016, Introductory Digital Image Processing – A Remote Sensing Perspective.
+* Richards, J. A., 2013, Remote Sensing Digital Image Analysis: an Introduction. (3rd Edition)
+* Mather, P. M., 2011, Computer Processing of Remotely-Sensed Images, 4th edition
+* Schowengerdt, R. A., 2006, Remote Sensing: Models and Methods for Image Processing
+* Niblack, W., 1986, An introduction to digital image processing  (old but really good)![image](https://github.com/user-attachments/assets/d43143a5-72bf-450c-9752-d864cda39ef7)
 
 
 
