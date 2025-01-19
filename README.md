@@ -4,6 +4,9 @@
 NB: the /data folder was too big to pose on github. You can access the data using the following Dropbox link: 
 https://www.dropbox.com/sh/fxcmtbz4o3tacz1/AABjQbeyg27zDh1chZxRDFcpa?dl=0
 
+Link to Dropbox folder with lectures: (files are too big to upload on github)
+https://www.dropbox.com/scl/fo/8eihkjrepirh7hs1aqpyd/ACna4v6LtyJ4OENDybgTsgA?rlkey=dxxmky405s3j4gvqvexsfywey&dl=0
+
 
 ## Learning outcomes:
 
