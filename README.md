@@ -18,8 +18,13 @@ On successful completion of this module, students will be able to:
 This module will deliver the core knowledge and skills required for understanding, accessing, processing and analysing remote sensing data. 
 This week, we will focus on: 
 1. understanding the main principles of remote sensing
-2. learn some tricks on how and where to access remote sensing data
-3. introduce some basic concepts of geostatistics
+   1.1 Physics, sensor tech., resolution
+   1.2 Digital raster image data, point ops & algebraic operations
+   1.3 Colour coordinate transformations & PCA
+   1.4 Radar remote sensing
+   1.5 Terrain analysis and LiDAR
+3. learn some tricks on how and where to access remote sensing data
+4. introduce some basic concepts of geostatistics
 
 The key objective of the course is to equip the students with the information and technical skills needed to design comprehensive data analysis strategies and deliver thorough analytical results that best exploit the data available considering differences in data types, spatio-temporal coverage and associated uncertainties and errors.  
 
@@ -36,6 +41,16 @@ https://www.wiley.com/en-gb/Multiple+point+Geostatistics%3A+Stochastic+Modeling+
 * Mather, P. M., 2011, Computer Processing of Remotely-Sensed Images, 4th edition
 * Schowengerdt, R. A., 2006, Remote Sensing: Models and Methods for Image Processing
 * Niblack, W., 1986, An introduction to digital image processing  (old but really good)![image](https://github.com/user-attachments/assets/d43143a5-72bf-450c-9752-d864cda39ef7)
+
+Plus there are many  resources (and ready code) available for EO applications. Check out:
+eo-learn https://pypi.org/project/eo-learn 
+GitHub.com/arcgeospatial/awesome-earthobservation-code 
+GitHub.com/sentinel-hub/eo-learn-workshop 
+GitHub.com/earthlab/earth-analytics-python-env
+ESE Jupyter notebooks (by Raul Adraeinsen)
+Earthdatascience.org/courses/earth-analytics-python
+Raster data format descriptors and drivers GDAL.org 
+![image](https://github.com/user-attachments/assets/88f7b558-dd03-43c4-91d4-86d4de32e448)
 
 
 
