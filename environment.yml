@@ -1,4 +1,4 @@
-name: edsml-rs
+name: remote-sensing
 channels:
   - conda-forge
   - defaults
